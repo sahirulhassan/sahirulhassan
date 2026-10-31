@@ -6,30 +6,30 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahirulhasan2002@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sahirulhasan)
 
-**Backend Systems Engineer • Full-Stack Developer • Automation Specialist**  
-*System Architect & Project Lead at [Ukaaz](https://github.com/ukaaz) • Creator of [Teach-Meter](https://github.com/Teach-Meter)*
+**Backend Systems Engineer | Full-Stack Developer | Automation Specialist**  
+*System Architect & Project Lead at [Ukaaz](https://github.com/ukaaz) | Creator of [Teach-Meter](https://github.com/Teach-Meter)*
 
 <p align="center">
-  Architecting high-throughput modular monoliths, resilient data synchronization engines, and low-level systems software.
+  Software engineer specializing in high-throughput modular monoliths, relational database design, and automated data synchronization pipelines.
 </p>
 
 ---
 
 </div>
 
-### 👨‍💻 Engineering Profile
+### Engineering Profile
 
-I am a Software Engineer focused on architecting resilient backend systems, database schemas, and developer tooling. My work spans high-throughput auction engines and escrow platforms, distributed web ecosystems, API reverse-engineering, system resource monitors, and algorithmic state machines.
+I am a software engineer focused on architecting resilient backend systems, database schemas, and developer tooling. My work spans high-concurrency auction engines and escrow platforms, distributed web ecosystems, administrative API reverse-engineering, system resource monitors, and algorithmic state machines.
 
-- 🏛️ **System Architecture & Modular Monoliths**: Leading system design and relational modeling for **[Ukaaz](https://github.com/ukaaz)** (AI-powered auction & escrow marketplace) and **[Teach-Meter](https://github.com/Teach-Meter)**. Adhering to strict Dependency Inversion (DIP) and database-level constraint-driven atomicity.
-- ⚡ **High-Performance Backends**: Building type-safe, schema-driven REST & WebSocket backends using Fastify v5, TypeScript, Drizzle ORM, Prisma, PostgreSQL, Redis, and Better Auth.
-- ⚙️ **Reverse Engineering & Automation**: Developing multi-tier catalog migration engines, session/CSRF state handlers, and event-driven automation bots with concurrency control.
-- 🖥️ **Systems & Desktop Applications**: Building native desktop utilities with Python & PyQt6 (process monitors, signal handling, psutil) and JavaFX (transactional desktop suites).
-- 📱 **Cross-Platform & Reactive UI**: Engineering mobile clients in Flutter (Riverpod, GoRouter) and web frontends with React 19, TanStack Router/Query, and Chakra UI.
+- **System Architecture & Modular Monoliths**: Leading system design and relational data modeling for **[Ukaaz](https://github.com/ukaaz)** (AI-powered auction and escrow marketplace) and **[Teach-Meter](https://github.com/Teach-Meter)**. Adhering to strict Dependency Inversion (DIP) and database-level constraint-driven atomicity.
+- **High-Performance Backends**: Building type-safe, schema-driven REST and WebSocket backends using Fastify v5, TypeScript, Drizzle ORM, Prisma, PostgreSQL, Redis, and Better Auth.
+- **Reverse Engineering & Automation**: Developing multi-tier catalog migration engines, session/CSRF state handlers, and event-driven automation bots with concurrency control.
+- **Systems & Desktop Applications**: Building native desktop utilities with Python and PyQt6 (process monitors, signal handling, psutil) and JavaFX (transactional desktop suites).
+- **Cross-Platform & Reactive UI**: Engineering mobile clients in Flutter (Riverpod, GoRouter) and web frontends with React 19, TanStack Router and Query, and Chakra UI.
 
 ---
 
-### 🌟 Featured Flagship Projects
+### Featured Projects
 
 <table>
   <thead>
@@ -52,11 +52,11 @@ I am a Software Engineer focused on architecting resilient backend systems, data
         <code>Flutter</code> <code>Riverpod</code>
       </td>
       <td>
-        • <b>Role: Project Lead & System Architect</b>.<br>
-        • Modular monolith adhering to DIP; services decoupled from SQL via repository interfaces.<br>
-        • Real-time auction engine with anti-sniping dynamic time extensions & escrow settlement.<br>
-        • PostgreSQL <code>ltree</code> category trees with GiST indexing & transaction retry wrappers (<code>withTransactionRetry</code>).<br>
-        • Cross-platform Flutter client with typed routing & Riverpod state management.
+        - <b>Role: Project Lead & System Architect</b>.<br>
+        - Modular monolith adhering to DIP; domain services decoupled from SQL via repository interfaces.<br>
+        - Real-time auction engine with anti-sniping dynamic time extensions and escrow settlement.<br>
+        - PostgreSQL <code>ltree</code> category trees with GiST indexing and transaction retry wrappers (<code>withTransactionRetry</code>).<br>
+        - Cross-platform Flutter client with typed routing and Riverpod state management.
       </td>
     </tr>
     <tr>
@@ -71,10 +71,10 @@ I am a Software Engineer focused on architecting resilient backend systems, data
         <code>Flutter</code> <code>Vitest</code>
       </td>
       <td>
-        • <b>Role: Creator & Lead Architect</b>.<br>
-        • Domain-driven modular API with cursor-based pagination and TypeBox schemas.<br>
-        • Redis caching layer, Sentry telemetry, and Vitest test coverage.<br>
-        • Automated OpenAPI client generation (Orval) synchronizing React and mobile clients.
+        - <b>Role: Creator & Lead Architect</b>.<br>
+        - Domain-driven modular API with cursor-based pagination and TypeBox schemas.<br>
+        - Redis caching layer, Sentry telemetry, and Vitest test coverage.<br>
+        - Automated OpenAPI client generation (Orval) synchronizing React and mobile clients.
       </td>
     </tr>
     <tr>
@@ -87,9 +87,9 @@ I am a Software Engineer focused on architecting resilient backend systems, data
         <code>whatsapp-web.js</code> <code>SSE</code>
       </td>
       <td>
-        • Real-time Server-Sent Events (SSE) status stream & QR auth lifecycle.<br>
-        • Concurrency gating via <code>p-limit</code> (5 concurrent tasks).<br>
-        • Anti-detection randomized human jitter delays (6–10s) and session persistence.
+        - Real-time Server-Sent Events (SSE) status stream and QR auth lifecycle.<br>
+        - Concurrency gating via <code>p-limit</code> (5 concurrent tasks).<br>
+        - Anti-detection randomized human jitter delays (6–10s) and session persistence.
       </td>
     </tr>
     <tr>
@@ -102,9 +102,9 @@ I am a Software Engineer focused on architecting resilient backend systems, data
         <code>psutil</code> <code>Qt Designer</code>
       </td>
       <td>
-        • Real-time multi-threaded metrics for CPU cores, RAM, disk I/O, and socket conns.<br>
-        • Custom <code>QStandardItemModel</code> with sub-second table refreshes.<br>
-        • Safe process signal management and termination workflows.
+        - Real-time multi-threaded metrics for CPU cores, RAM, disk I/O, and socket connections.<br>
+        - Custom <code>QStandardItemModel</code> with sub-second table refreshes.<br>
+        - Safe process signal management and termination workflows.
       </td>
     </tr>
     <tr>
@@ -117,9 +117,9 @@ I am a Software Engineer focused on architecting resilient backend systems, data
         <code>Graphviz</code> <code>Algorithms</code>
       </td>
       <td>
-        • Exact Longest Proper Prefix-Suffix (LPS) array computation.<br>
-        • Dynamic compilation of pattern transitions into Mealy Machine finite automata.<br>
-        • Interactive visualizer rendering vector graph diagrams.
+        - Exact Longest Proper Prefix-Suffix (LPS) array computation.<br>
+        - Dynamic compilation of pattern transitions into Mealy Machine finite automata.<br>
+        - Interactive visualizer rendering vector graph diagrams.
       </td>
     </tr>
   </tbody>
@@ -127,7 +127,7 @@ I am a Software Engineer focused on architecting resilient backend systems, data
 
 ---
 
-### 🛠️ Technical Capabilities
+### Technical Capabilities
 
 | Domain | Technologies & Frameworks |
 |---|---|
@@ -140,7 +140,7 @@ I am a Software Engineer focused on architecting resilient backend systems, data
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### GitHub Activity & Analytics
 
 <div align="center">
 
